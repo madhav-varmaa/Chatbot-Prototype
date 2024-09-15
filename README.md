@@ -14,7 +14,7 @@ This repository contains a basic chatbot prototype developed using HTML, CSS, an
 1. Clone this repository to your local machine:
 
    ```bash
-   git clone https://github.com/madhav-varmaa/chatbot-prototype.git
+   git clone https://github.com/madhav-varmaa/Chatbot-Prototype.git
    ```
 
 2. Open `index.html` in your web browser to interact with the chatbot.
